@@ -30,13 +30,13 @@ Make sure you have Android Studio installed and some type of emulator to test to
 ```
 git clone https://github.com/PaulCardoos/MazeGame-Android.git
 ```
-When you open the project in Android Studion it should automatically build. 
+When you open the project in Android Studio it should automatically build. 
 
 Next, just click the play button on your app and your emulator should load and run the app. For reference look at the image below
 
 <img src="play.jpg"/>
 
-That should be it, any questions feel free to contact paul.cardoos@outlook.com
+That should be it, any questions feel free to contact me at paul.cardoos@outlook.com
 
 <h3>Extras</h3>
 Obviously, style is not the goal on this project
