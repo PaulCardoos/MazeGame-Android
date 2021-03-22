@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HW2.iml" filepath="$PROJECT_DIR$/.idea/modules/HW2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HW2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HW2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MazeGame-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/MazeGame-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MazeGame-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MazeGame-Android.app.iml" />
     </modules>
   </component>
 </project>
